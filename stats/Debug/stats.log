@@ -1,0 +1,3 @@
+﻿  stats.cpp
+C:\Users\zakna\source\repos\stats\stats\stats.cpp(14,6): warning C4101: 'it': unreferenced local variable
+  stats.vcxproj -> C:\Users\zakna\source\repos\stats\Debug\stats.exe
